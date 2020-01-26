@@ -16,7 +16,7 @@
 
 # テスト結果
 
-[![Build Status](https://travis-ci.com/t-kougei-game-comp/03_list.svg?branch=master)](https://travis-ci.com/t-kougei-game-comp/03_list)
+[![Build Status](https://travis-ci.com/0zw/03_list.svg?branch=master)](https://travis-ci.com/0zw/03_list)
 
 # 今回の問題
 
